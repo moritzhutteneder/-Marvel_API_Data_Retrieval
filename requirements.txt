@@ -1,0 +1,7 @@
+requests==2.31.0
+pandas==2.2.2
+Flask==2.3.2
+flask-restful==0.3.9
+webdriver-manager==3.8.6
+selenium==4.11.2
+bs4==4.12.2
